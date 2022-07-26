@@ -22,4 +22,15 @@
 }
 .text-c a {
   color: white;
+}
+
+.titulo {
+  background-color: black;
+  padding: 15px;
+  margin-bottom: 20px;
+}
+.titulo h2 {
+  color: rosybrown;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
 }/*# sourceMappingURL=estilos.css.map */
