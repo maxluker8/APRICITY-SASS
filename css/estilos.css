@@ -11,6 +11,9 @@
   color: white;
   font-family: "Montserrat", sans-serif;
 }
+.text-c a:hover {
+  color: rosybrown;
+}
 .text-c .dropdown-menu {
   background-color: black;
 }
@@ -33,4 +36,40 @@
   color: rosybrown;
   text-align: center;
   font-family: "Montserrat", sans-serif;
+}
+
+.card-group {
+  font-family: "Montserrat", sans-serif;
+  margin-bottom: 50px;
+}
+.card-group .card {
+  padding: 15px;
+  margin: 20px;
+}
+.card-group .card .btn-primary {
+  background-color: black;
+  border: black solid 2px;
+}
+.card-group .card .btn-primary:hover {
+  background-color: rgb(66, 64, 64);
+  color: rosybrown;
+  border: rgb(66, 64, 64);
+}
+
+footer {
+  background-color: black;
+  padding: 10px;
+}
+footer h6 {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+}
+footer i {
+  color: white;
+  margin-bottom: 25px;
+  letter-spacing: 10px;
+}
+footer i:hover {
+  color: rosybrown;
+  font-size: 20px;
 }/*# sourceMappingURL=estilos.css.map */
